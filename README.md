@@ -16,7 +16,7 @@ This project demonstrates a practical application of merging **Computer Vision**
 ##  Dataset
 
 - **Dataset**: https://www.kaggle.com/datasets/adityajn105/flickr8k
-- 
+
 ##  Model Architecture
 
 ###  Feature Extraction (Encoder)
